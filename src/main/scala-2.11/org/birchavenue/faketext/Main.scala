@@ -2,6 +2,7 @@ package org.birchavenue.faketext
 
 import scopt._
 import java.io.File
+import scala.io.Source
 
 object Main {
 
@@ -23,10 +24,21 @@ object Main {
     parser.parse(args, Config()) match {
       case Some(config) =>
 
-       val generator = new Generator(config.files.filter(_.exists()), config.splitSentences)
+       // Get the contents of each file as a string
+       val validFiles = config.files.filter(_.exists())
+       val contents = validFiles.map(f => {
+         val source = scala.io.Source.fromFile(f)
+         source.getLines mkString "\n"
+       })
+       println(contents.length)
+       
+       // Create the Generator
+       val generator = new Generator(contents, config.splitSentences)
         
+       // Generate some fake text
+       
       case None =>
-    // arguments are bad, error message will have been displayed
+      // arguments are bad, error message will have been displayed
     }
   }
  
