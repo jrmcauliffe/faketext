@@ -6,7 +6,13 @@ organization := "org.birchavenue"
 
 scalaVersion := "2.11.7"
 
+mainClass in assembly := Some("org.birchavenue.faketext.Main")
+
+assemblyJarName in assembly := "faketext.jar"
+
 scalacOptions ++= Seq("-deprecation", "-unchecked")
+
+resolvers += Resolver.sonatypeRepo("public")
 
 libraryDependencies ++= {
   Seq(
