@@ -1,0 +1,2325 @@
+[{
+  "personId":"4018",
+  "name":"Wenli Cheng",
+  "departmentTitle":"Department of Economics",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"WenLi.Cheng@monash.edu",
+  "workPhoneNumber":"+61 3 990 31566"
+},{
+  "personId":"5181",
+  "name":"Mauricio Palmeira",
+  "departmentTitle":"Department of Marketing",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Mauricio.Palmeira@monash.edu",
+  "workPhoneNumber":"+61 3 990 31592"
+},{
+  "personId":"4965",
+  "name":"Dayna Simpson",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Associate Professor",
+  "emailAddress":"Dayna.Simpson@monash.edu",
+  "workPhoneNumber":"+61 3 990 32674"
+},{
+  "personId":"2701",
+  "name":"Michael White",
+  "departmentTitle":"Department of Economics",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Mike.White@monash.edu",
+  "workPhoneNumber":"+61 3 990 52396"
+},{
+  "personId":"4358",
+  "name":"Anmol Ratan",
+  "departmentTitle":"Department of Economics",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Anmol.Ratan@monash.edu",
+  "workPhoneNumber":"+61 3 990 20179"
+},{
+  "personId":"2807",
+  "name":"Deirdre O'Neill",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Associate Professor",
+  "emailAddress":"Deirdre.ONeill@monash.edu",
+  "workPhoneNumber":"+61 3 990 31017"
+},{
+  "personId":"2586",
+  "name":"Elizabeth Prior Jonson",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Elizabeth.PriorJonson@monash.edu",
+  "workPhoneNumber":"+61 3 990 55435"
+},{
+  "personId":"3734",
+  "name":"Fiona Newton",
+  "departmentTitle":"Department of Marketing",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Fiona.Newton@monash.edu",
+  "workPhoneNumber":"+61 3 990 44501"
+},{
+  "personId":"4538",
+  "name":"Simon Angus",
+  "departmentTitle":"Department of Economics",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Simon.Angus@monash.edu",
+  "workPhoneNumber":"+61 3 990 52429"
+},{
+  "personId":"4159",
+  "name":"Silva Zavarsek",
+  "departmentTitle":"Ctr for Health Economics",
+  "positionTitle":"Associate Professor (Research)",
+  "emailAddress":"Silva.Zavarsek@monash.edu",
+  "workPhoneNumber":"+61 3 990 58410"
+},{
+  "personId":"5385",
+  "name":"Belinda Allen",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"ADJUNCT LECTURER",
+  "emailAddress":"",
+  "workPhoneNumber":""
+},{
+  "personId":"2886",
+  "name":"Maxwell Coulthard",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Max.Coulthard@monash.edu",
+  "workPhoneNumber":"+61 3 990 44261"
+},{
+  "personId":"3824",
+  "name":"Glen Croy",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Glen.Croy@monash.edu",
+  "workPhoneNumber":"+61 3 990 47032"
+},{
+  "personId":"10994",
+  "name":"Yulia Veld-Merkoulova",
+  "departmentTitle":"Finance",
+  "positionTitle":"Associate Professor",
+  "emailAddress":"Yulia.Veld-Merkoulova@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"3771",
+  "name":"Vai-Lam Mui",
+  "departmentTitle":"Department of Economics",
+  "positionTitle":"Associate Professor",
+  "emailAddress":"Vai-Lam.Mui@monash.edu",
+  "workPhoneNumber":"+61 3 990 52349"
+},{
+  "personId":"7530",
+  "name":"Dennis Fehrenbacher",
+  "departmentTitle":"Mgmt Accounting & Accounting Info Sys",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Dennis.Fehrenbacher@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"7493",
+  "name":"Jun Gu",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"J.Gu@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"10898",
+  "name":"Di Wang",
+  "departmentTitle":"Department of Marketing",
+  "positionTitle":"Research Fellow",
+  "emailAddress":"Di.Wang@monash.edu",
+  "workPhoneNumber":"+61 3 990 31580"
+},{
+  "personId":"4061",
+  "name":"Carla Ferraro",
+  "departmentTitle":"Department of Marketing",
+  "positionTitle":"Senior Research Fellow",
+  "emailAddress":"Carla.Ferraro@monash.edu",
+  "workPhoneNumber":"+61 3 990 32734"
+},{
+  "personId":"4397",
+  "name":"Christine Brown",
+  "departmentTitle":"Banking & Finance",
+  "positionTitle":"Professor",
+  "emailAddress":"Christine.Brown@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"4591",
+  "name":"Stephen Saunders",
+  "departmentTitle":"Department of Marketing",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Stephen.Saunders@monash.edu",
+  "workPhoneNumber":"+61 3 990 47028"
+},{
+  "personId":"5335",
+  "name":"Lata Gangadharan",
+  "departmentTitle":"Department of Economics",
+  "positionTitle":"Professor",
+  "emailAddress":"Lata.Gangadharan@monash.edu",
+  "workPhoneNumber":"+61 3 990 52345"
+},{
+  "personId":"3717",
+  "name":"Jagjit Plahe",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Jagjit.Plahe@monash.edu",
+  "workPhoneNumber":"+61 3 990 34700"
+},{
+  "personId":"5046",
+  "name":"Jiemiao Chen",
+  "departmentTitle":"Department of Marketing",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Jiemiao.Chen@monash.edu",
+  "workPhoneNumber":"+61 3 990 32713"
+},{
+  "personId":"3222",
+  "name":"Param Silvapulle",
+  "departmentTitle":"Econometrics & Business Statistics",
+  "positionTitle":"Professor",
+  "emailAddress":"Param.Silvapulle@monash.edu",
+  "workPhoneNumber":"+61 3 990 32237"
+},{
+  "personId":"3171",
+  "name":"Ramanie Samaratunge",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Associate Professor",
+  "emailAddress":"Ramanie.Samaratunge@monash.edu",
+  "workPhoneNumber":"+61 3 990 53586"
+},{
+  "personId":"3701",
+  "name":"Peter Thompson",
+  "departmentTitle":"Department of Marketing",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Peter.Thompson@monash.edu",
+  "workPhoneNumber":"+61 3 990 55443"
+},{
+  "personId":"3058",
+  "name":"Ken Devos",
+  "departmentTitle":"Business Law & Taxation",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Ken.Devos@monash.edu",
+  "workPhoneNumber":"+61 3 990 52266"
+},{
+  "personId":"3199",
+  "name":"Piyadasa Edirisuriya",
+  "departmentTitle":"Finance",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Piyadasa.Edirisuriya@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"9327",
+  "name":"Jonathan Batten",
+  "departmentTitle":"Finance",
+  "positionTitle":"Professor",
+  "emailAddress":"Jonathan.Batten@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"4241",
+  "name":"John Vaz",
+  "departmentTitle":"Finance",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"John.Vaz@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"4013",
+  "name":"Vinod Mishra",
+  "departmentTitle":"Department of Economics",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Vinod.Mishra@monash.edu",
+  "workPhoneNumber":"+61 3 990 47179"
+},{
+  "personId":"8952",
+  "name":"Yuanyuan Gu",
+  "departmentTitle":"Ctr for Health Economics",
+  "positionTitle":"Research Fellow",
+  "emailAddress":"Yuanyuan.Gu@monash.edu",
+  "workPhoneNumber":"+61 3 990 58152"
+},{
+  "personId":"2890",
+  "name":"Loretta Inglis",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Loretta.Inglis@monash.edu",
+  "workPhoneNumber":"+61 3 990 31090"
+},{
+  "personId":"5381",
+  "name":"Tracey Danaher",
+  "departmentTitle":"Department of Marketing",
+  "positionTitle":"Professor",
+  "emailAddress":"Tracey.Danaher@monash.edu",
+  "workPhoneNumber":"+61 3 990 31927"
+},{
+  "personId":"3003",
+  "name":"Madhumita Bhattacharya",
+  "departmentTitle":"Department of Economics",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Mita.Bhattacharya@monash.edu",
+  "workPhoneNumber":"+61 3 990 32821"
+},{
+  "personId":"3284",
+  "name":"Pushkar Maitra",
+  "departmentTitle":"Department of Economics",
+  "positionTitle":"Professor",
+  "emailAddress":"Pushkar.Maitra@monash.edu",
+  "workPhoneNumber":"+61 3 990 55832"
+},{
+  "personId":"4766",
+  "name":"Dominic Thomas",
+  "departmentTitle":"Department of Marketing",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Dominic.Thomas@monash.edu",
+  "workPhoneNumber":"+61 3 990 32059"
+},{
+  "personId":"2662",
+  "name":"Mary Anderson",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Mary.Anderson@monash.edu",
+  "workPhoneNumber":"+61 3 990 32387"
+},{
+  "personId":"3894",
+  "name":"Vivek Chaudhri",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Associate Professor",
+  "emailAddress":"Vivek.Chaudhri@monash.edu",
+  "workPhoneNumber":"+61 3 990 31417"
+},{
+  "personId":"3697",
+  "name":"Keryn Chalmers",
+  "departmentTitle":"Accounting",
+  "positionTitle":"Professor",
+  "emailAddress":"Keryn.Chalmers@monash.edu",
+  "workPhoneNumber":"+61 3 990 32867"
+},{
+  "personId":"7509",
+  "name":"Richard Mitchell",
+  "departmentTitle":"Business Law & Taxation",
+  "positionTitle":"PROFESSOR",
+  "emailAddress":"Richard.Mitchell@monash.edu",
+  "workPhoneNumber":"+61 3 990 34041"
+},{
+  "personId":"3868",
+  "name":"Toan Le",
+  "departmentTitle":"Business Law & Taxation",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Toan.Le@monash.edu",
+  "workPhoneNumber":"+61 3 990 34189"
+},{
+  "personId":"5371",
+  "name":"Yi Jin",
+  "departmentTitle":"Department of Economics",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Yi.Jin@monash.edu",
+  "workPhoneNumber":"+61 3 990 32042"
+},{
+  "personId":"7595",
+  "name":"Trang Vu",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Research Fellow",
+  "emailAddress":"Trang.Vu@monash.edu",
+  "workPhoneNumber":"+61 3 990 34229"
+},{
+  "personId":"4758",
+  "name":"Catherine Barratt",
+  "departmentTitle":"Accounting",
+  "positionTitle":"Assistant Lecturer",
+  "emailAddress":"Catherine.Barratt@monash.edu",
+  "workPhoneNumber":"+61 3 990 52701"
+},{
+  "personId":"2925",
+  "name":"Anthony Harris",
+  "departmentTitle":"Ctr for Health Economics",
+  "positionTitle":"Professor",
+  "emailAddress":"Anthony.Harris@monash.edu",
+  "workPhoneNumber":"+61 3 990 58380"
+},{
+  "personId":"11484",
+  "name":"Hannah Nguyen",
+  "departmentTitle":"Banking & Finance",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Hannah.Nguyen@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"7526",
+  "name":"Elaine Hutson",
+  "departmentTitle":"Finance",
+  "positionTitle":"Associate Professor",
+  "emailAddress":"Elaine.Hutson@monash.edu",
+  "workPhoneNumber":"+61 3 990 32110"
+},{
+  "personId":"4288",
+  "name":"Peter Danaher",
+  "departmentTitle":"Department of Marketing",
+  "positionTitle":"Professor",
+  "emailAddress":"Peter.Danaher@monash.edu",
+  "workPhoneNumber":"+61 3 990 31561"
+},{
+  "personId":"4508",
+  "name":"Banita Bissoondoyal-Bheenick",
+  "departmentTitle":"Finance",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Banita.Bissoondoyal-Bheenick@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"3626",
+  "name":"Lisa Powell",
+  "departmentTitle":"Financial Accounting & Auditing",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Lisa.Powell@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"5760",
+  "name":"Jimmy Wong",
+  "departmentTitle":"Department of Marketing",
+  "positionTitle":"ADJUNCT LECTURER",
+  "emailAddress":"Jimmy.Wong@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"2736",
+  "name":"Helen De Cieri",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Professor",
+  "emailAddress":"Helen.DeCieri@monash.edu",
+  "workPhoneNumber":"+61 3 990 32013"
+},{
+  "personId":"3692",
+  "name":"Samir Gupta",
+  "departmentTitle":"Department of Marketing",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Samir.Gupta@monash.edu",
+  "workPhoneNumber":"+61 3 990 32492"
+},{
+  "personId":"3115",
+  "name":"Susan Mayson",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Susan.Mayson@monash.edu",
+  "workPhoneNumber":"+61 3 990 34154"
+},{
+  "personId":"2914",
+  "name":"Peter Schuwalow",
+  "departmentTitle":"Department of Economics",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Peter.Schuwalow@monash.edu",
+  "workPhoneNumber":"+61 3 990 44294"
+},{
+  "personId":"9319",
+  "name":"Michael Ward",
+  "departmentTitle":"Department of Economics",
+  "positionTitle":"Professor",
+  "emailAddress":"Michael.Ward@monash.edu",
+  "workPhoneNumber":"+61 3 990 52307"
+},{
+  "personId":"2549",
+  "name":"Satheesh Seenivasan",
+  "departmentTitle":"Department of Marketing",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Satheesh.Seenivasan@monash.edu",
+  "workPhoneNumber":"+61 3 990 34184"
+},{
+  "personId":"3405",
+  "name":"Philip Gharghori",
+  "departmentTitle":"Finance",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Philip.Gharghori@monash.edu",
+  "workPhoneNumber":"+61 3 990 59247"
+},{
+  "personId":"4818",
+  "name":"Sijun Shao",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Sijun.Shao@monash.edu",
+  "workPhoneNumber":"+61 3 990 27220"
+},{
+  "personId":"11742",
+  "name":"Rod Maddock",
+  "departmentTitle":"Department of Economics",
+  "positionTitle":"PROFESSOR",
+  "emailAddress":"Rodney.Maddock@monash.edu",
+  "workPhoneNumber":"+61 3 990 34420"
+},{
+  "personId":"3438",
+  "name":"Anne O'Rourke",
+  "departmentTitle":"Business Law & Taxation",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Anne.ORourke@monash.edu",
+  "workPhoneNumber":"+61 3 990 52469"
+},{
+  "personId":"3086",
+  "name":"Sandra Cockfield",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Sandra.Cockfield@monash.edu",
+  "workPhoneNumber":"+61 3 990 34651"
+},{
+  "personId":"9428",
+  "name":"Daniel Prajogo",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Associate Professor",
+  "emailAddress":"Daniel.Prajogo@monash.edu",
+  "workPhoneNumber":"+61 3 990 32030"
+},{
+  "personId":"7410",
+  "name":"Qingyuan Du",
+  "departmentTitle":"Department of Economics",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Qingyuan.Du@monash.edu",
+  "workPhoneNumber":"+61 3 990 34702"
+},{
+  "personId":"3148",
+  "name":"Jill Wright",
+  "departmentTitle":"Econometrics & Business Statistics",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Jill.Wright@monash.edu",
+  "workPhoneNumber":"+61 3 990 47074"
+},{
+  "personId":"10168",
+  "name":"Sonja Kassenboehmer",
+  "departmentTitle":"Ctr for Health Economics",
+  "positionTitle":"Research Fellow",
+  "emailAddress":"Sonja.Kassenboehmer@monash.edu",
+  "workPhoneNumber":"+61 3 990 24015"
+},{
+  "personId":"3829",
+  "name":"Lionel Frost",
+  "departmentTitle":"Department of Economics",
+  "positionTitle":"Associate Professor",
+  "emailAddress":"Lionel.Frost@monash.edu",
+  "workPhoneNumber":"+61 3 990 47068"
+},{
+  "personId":"5364",
+  "name":"Siew Ling Yew",
+  "departmentTitle":"Department of Economics",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Siew.Ling.Yew@monash.edu",
+  "workPhoneNumber":"+61 3 990 34412"
+},{
+  "personId":"2601",
+  "name":"Abraham Herzberg",
+  "departmentTitle":"Business Law & Taxation",
+  "positionTitle":"ADJUNCT SENIOR LECTURER",
+  "emailAddress":"Abe.Herzberg@monash.edu",
+  "workPhoneNumber":"+61 3 990 55879"
+},{
+  "personId":"7746",
+  "name":"Paulo Santos",
+  "departmentTitle":"Department of Economics",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Paulo.Santos@monash.edu",
+  "workPhoneNumber":"+61 3 990 34158"
+},{
+  "personId":"2564",
+  "name":"Ralph Snyder",
+  "departmentTitle":"Econometrics & Business Statistics",
+  "positionTitle":"Associate Professor",
+  "emailAddress":"Ralph.Snyder@monash.edu",
+  "workPhoneNumber":"+61 3 990 52366"
+},{
+  "personId":"3150",
+  "name":"Mahendra Goyal",
+  "departmentTitle":"Financial Accounting & Auditing",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Mahendra.Goyal@monash.edu",
+  "workPhoneNumber":"+61 3 990 47041"
+},{
+  "personId":"5510",
+  "name":"Gaurav Datt",
+  "departmentTitle":"Department of Economics",
+  "positionTitle":"Associate Professor",
+  "emailAddress":"Gaurav.Datt@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"3249",
+  "name":"Yelena Tsarenko",
+  "departmentTitle":"Department of Marketing",
+  "positionTitle":"Associate Professor",
+  "emailAddress":"Yelena.Tsarenko@monash.edu",
+  "workPhoneNumber":"+61 3 990 32354"
+},{
+  "personId":"2983",
+  "name":"Poonam Bir",
+  "departmentTitle":"Financial Accounting & Auditing",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Poonam.Bir@monash.edu",
+  "workPhoneNumber":"+61 3 990 55847"
+},{
+  "personId":"2909",
+  "name":"Ann Maharaj",
+  "departmentTitle":"Econometrics & Business Statistics",
+  "positionTitle":"Associate Professor",
+  "emailAddress":"Ann.Maharaj@monash.edu",
+  "workPhoneNumber":"+61 3 990 32236"
+},{
+  "personId":"7548",
+  "name":"Abu Zafar Shahriar",
+  "departmentTitle":"Finance",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Shahriar.AbuZafar@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"4223",
+  "name":"Maria Strydom",
+  "departmentTitle":"Finance",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Maria.Strydom@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"5020",
+  "name":"Jeffrey LaFrance",
+  "departmentTitle":"Department of Economics",
+  "positionTitle":"Professor",
+  "emailAddress":"Jeffrey.Lafrance@monash.edu",
+  "workPhoneNumber":"+61 3 990 52409"
+},{
+  "personId":"4706",
+  "name":"Sean Sands",
+  "departmentTitle":"Department of Marketing",
+  "positionTitle":"Senior Research Fellow",
+  "emailAddress":"Sean.Sands@monash.edu",
+  "workPhoneNumber":"+61 3 990 32753"
+},{
+  "personId":"2943",
+  "name":"Rob Hyndman",
+  "departmentTitle":"Econometrics & Business Statistics",
+  "positionTitle":"Professor",
+  "emailAddress":"Rob.Hyndman@monash.edu",
+  "workPhoneNumber":"+61 3 990 55141"
+},{
+  "personId":"2979",
+  "name":"Michelle Welsh",
+  "departmentTitle":"Business Law & Taxation",
+  "positionTitle":"Associate Professor",
+  "emailAddress":"Michelle.Welsh@monash.edu",
+  "workPhoneNumber":"+61 3 990 32050"
+},{
+  "personId":"5374",
+  "name":"Philip Taylor",
+  "departmentTitle":"Australian Ctr for Financial Studies",
+  "positionTitle":"PROFESSOR (RESEARCH)",
+  "emailAddress":"Philip.Taylor@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"5793",
+  "name":"Robert Brooks",
+  "departmentTitle":"Econometrics & Business Statistics",
+  "positionTitle":"Chair Econometrics & Business Stats",
+  "emailAddress":"Robert.Brooks@monash.edu",
+  "workPhoneNumber":"+61 3 990 31423"
+},{
+  "personId":"3261",
+  "name":"Richard Cooney",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Richard.Cooney@monash.edu",
+  "workPhoneNumber":"+61 3 990 32607"
+},{
+  "personId":"5334",
+  "name":"Yangyang Chen",
+  "departmentTitle":"Finance",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Yangyang.Chen@monash.edu",
+  "workPhoneNumber":"+61 3 990 55167"
+},{
+  "personId":"5022",
+  "name":"Jadranka Petrovic",
+  "departmentTitle":"Business Law & Taxation",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Jadranka.Petrovic@monash.edu",
+  "workPhoneNumber":"+61 3 990 32695"
+},{
+  "personId":"4110",
+  "name":"Anurag Sharma",
+  "departmentTitle":"Ctr for Health Economics",
+  "positionTitle":"Research Fellow",
+  "emailAddress":"Anurag.Sharma@monash.edu",
+  "workPhoneNumber":"+61 3 990 50519"
+},{
+  "personId":"4781",
+  "name":"Kerstin Steiner",
+  "departmentTitle":"Business Law & Taxation",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Kerstin.Steiner@monash.edu",
+  "workPhoneNumber":"+61 3 990 34302"
+},{
+  "personId":"3465",
+  "name":"Kathryn Cornwell",
+  "departmentTitle":"Econometrics & Business Statistics",
+  "positionTitle":"Research Fellow",
+  "emailAddress":"Katy.Cornwell@monash.edu",
+  "workPhoneNumber":"+61 3 990 52453"
+},{
+  "personId":"5384",
+  "name":"Srinivas Sridharan",
+  "departmentTitle":"Department of Marketing",
+  "positionTitle":"Associate Professor",
+  "emailAddress":"Srinivas.Sridharan@monash.edu",
+  "workPhoneNumber":"+61 3 990 55822"
+},{
+  "personId":"3772",
+  "name":"Duncan Mortimer",
+  "departmentTitle":"Ctr for Health Economics",
+  "positionTitle":"Associate Professor",
+  "emailAddress":"Duncan.Mortimer@monash.edu",
+  "workPhoneNumber":"+61 3 990 50735"
+},{
+  "personId":"2927",
+  "name":"Wei Lu",
+  "departmentTitle":"Financial Accounting & Auditing",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Wei.Lu@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"3966",
+  "name":"Mervyn Silvapulle",
+  "departmentTitle":"Econometrics & Business Statistics",
+  "positionTitle":"Professor",
+  "emailAddress":"Mervyn.Silvapulle@monash.edu",
+  "workPhoneNumber":"+61 3 990 31024"
+},{
+  "personId":"4212",
+  "name":"John Gillespie",
+  "departmentTitle":"Business Law & Taxation",
+  "positionTitle":"Professor",
+  "emailAddress":"John.Gillespie@monash.edu",
+  "workPhoneNumber":"+61 3 990 34064"
+},{
+  "personId":"9589",
+  "name":"Christopher Nyland",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Professor",
+  "emailAddress":"Chris.Nyland@monash.edu",
+  "workPhoneNumber":"+61 3 990 34667"
+},{
+  "personId":"3549",
+  "name":"Kim Langfield-Smith",
+  "departmentTitle":"Mgmt Accounting & Accounting Info Sys",
+  "positionTitle":"Vice-Provost (Academic Performance)",
+  "emailAddress":"Kim.Langfield-Smith@monash.edu",
+  "workPhoneNumber":"+61 3 990 20764"
+},{
+  "personId":"4754",
+  "name":"Greg Bamber",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Professor",
+  "emailAddress":"Greg.Bamber@monash.edu",
+  "workPhoneNumber":"+61 3 990 32615"
+},{
+  "personId":"3920",
+  "name":"Tram Vu",
+  "departmentTitle":"Finance",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Tram.Vu@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"8588",
+  "name":"Hean Tat Keh",
+  "departmentTitle":"Department of Marketing",
+  "positionTitle":"Professor",
+  "emailAddress":"Ht.Keh@monash.edu",
+  "workPhoneNumber":"+61 3 990 31155"
+},{
+  "personId":"7475",
+  "name":"Andreas Leibbrandt",
+  "departmentTitle":"Department of Economics",
+  "positionTitle":"Associate Professor",
+  "emailAddress":"Andreas.Leibbrandt@monash.edu",
+  "workPhoneNumber":"+61 3 990 55115"
+},{
+  "personId":"3839",
+  "name":"Cathy Sheehan",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Associate Professor",
+  "emailAddress":"Cathy.Sheehan@monash.edu",
+  "workPhoneNumber":"+61 3 990 32228"
+},{
+  "personId":"2880",
+  "name":"Anne Bardoel",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Associate Professor",
+  "emailAddress":"Anne.Bardoel@monash.edu",
+  "workPhoneNumber":"+61 3 990 32675"
+},{
+  "personId":"3830",
+  "name":"Jean-Pierre Fenech",
+  "departmentTitle":"Finance",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"JeanPierre.Fenech@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"3124",
+  "name":"Andrew Coleman",
+  "departmentTitle":"Business Law & Taxation",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Andrew.Coleman@monash.edu",
+  "workPhoneNumber":"+61 3 990 31977"
+},{
+  "personId":"3929",
+  "name":"Ratbek Dzhumashev",
+  "departmentTitle":"Department of Economics",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Ratbek.Dzhumashev@monash.edu",
+  "workPhoneNumber":"+61 3 990 47138"
+},{
+  "personId":"3072",
+  "name":"Nigel Morkel-Kingsbury",
+  "departmentTitle":"Finance",
+  "positionTitle":"Assistant Lecturer",
+  "emailAddress":"Nigel.Morkel-Kingsbury@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"3342",
+  "name":"Colin Jevons",
+  "departmentTitle":"Department of Marketing",
+  "positionTitle":"Associate Professor",
+  "emailAddress":"Colin.Jevons@monash.edu",
+  "workPhoneNumber":"+61 3 990 32304"
+},{
+  "personId":"2859",
+  "name":"Ly Fie Sugianto",
+  "departmentTitle":"Mgmt Accounting & Accounting Info Sys",
+  "positionTitle":"Associate Professor",
+  "emailAddress":"LyFie.Sugianto@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"11486",
+  "name":"Karen Lai",
+  "departmentTitle":"Financial Accounting & Auditing",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Karen.Lai@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"2815",
+  "name":"Felix Mavondo",
+  "departmentTitle":"Department of Marketing",
+  "positionTitle":"Professor",
+  "emailAddress":"Felix.Mavondo@monash.edu",
+  "workPhoneNumber":"+61 3 990 59249"
+},{
+  "personId":"5002",
+  "name":"David Johnston",
+  "departmentTitle":"Ctr for Health Economics",
+  "positionTitle":"Associate Professor (Research)",
+  "emailAddress":"David.Johnston@monash.edu",
+  "workPhoneNumber":"+61 3 990 58155"
+},{
+  "personId":"9067",
+  "name":"Brett Doble",
+  "departmentTitle":"Ctr for Health Economics",
+  "positionTitle":"TEACHING ASSOCIATE",
+  "emailAddress":"Brett.Doble@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"3977",
+  "name":"Daniel Prajogo",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Associate Professor",
+  "emailAddress":"Daniel.Prajogo@monash.edu",
+  "workPhoneNumber":"+61 3 990 32030"
+},{
+  "personId":"5230",
+  "name":"Paola Labrecciosa",
+  "departmentTitle":"Department of Economics",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Paola.Labrecciosa@monash.edu",
+  "workPhoneNumber":"+61 3 990 58159"
+},{
+  "personId":"5303",
+  "name":"Paul Raschky",
+  "departmentTitle":"Department of Economics",
+  "positionTitle":"Associate Professor",
+  "emailAddress":"Paul.Raschky@monash.edu",
+  "workPhoneNumber":"+61 3 990 34515"
+},{
+  "personId":"4883",
+  "name":"Anna Stamatelatos",
+  "departmentTitle":"Mgmt Accounting & Accounting Info Sys",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Anna.Stamatelatos@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"4743",
+  "name":"Ralph Kober",
+  "departmentTitle":"Mgmt Accounting & Accounting Info Sys",
+  "positionTitle":"Associate Professor",
+  "emailAddress":"Ralph.Kober@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"3373",
+  "name":"Francis In",
+  "departmentTitle":"Finance",
+  "positionTitle":"Professor",
+  "emailAddress":"Francis.In@monash.edu",
+  "workPhoneNumber":"+61 3 990 51561"
+},{
+  "personId":"4962",
+  "name":"Birendra Rai",
+  "departmentTitle":"Department of Economics",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Birendra.Rai@monash.edu",
+  "workPhoneNumber":"+61 3 990 52371"
+},{
+  "personId":"7726",
+  "name":"Kohyar Kiazad",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Kohyar.Kiazad@monash.edu",
+  "workPhoneNumber":"+61 3 990 31433"
+},{
+  "personId":"4378",
+  "name":"Asadul Islam",
+  "departmentTitle":"Department of Economics",
+  "positionTitle":"Associate Professor",
+  "emailAddress":"Asadul.Islam@monash.edu",
+  "workPhoneNumber":"+61 3 990 32783"
+},{
+  "personId":"2823",
+  "name":"Russell Smyth",
+  "departmentTitle":"Department of Economics",
+  "positionTitle":"Professor",
+  "emailAddress":"Russell.Smyth@monash.edu",
+  "workPhoneNumber":"+61 3 990 51560"
+},{
+  "personId":"4429",
+  "name":"Karen Yong",
+  "departmentTitle":"Ctr for Health Economics",
+  "positionTitle":"Research Fellow",
+  "emailAddress":"Karen.Yong@monash.edu",
+  "workPhoneNumber":"+61 3 990 50734"
+},{
+  "personId":"2913",
+  "name":"Jayasinghe Wickramanayake",
+  "departmentTitle":"Finance",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"J.Wickramanayake@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"4045",
+  "name":"Carla Wilkin",
+  "departmentTitle":"Financial Accounting & Auditing",
+  "positionTitle":"Professor",
+  "emailAddress":"Carla.Wilkin@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"4882",
+  "name":"Peter Ghijben",
+  "departmentTitle":"Ctr for Health Economics",
+  "positionTitle":"Senior Research Fellow",
+  "emailAddress":"Peter.Ghijben@monash.edu",
+  "workPhoneNumber":"+61 3 990 58345"
+},{
+  "personId":"2863",
+  "name":"Ellinor Allen",
+  "departmentTitle":"Financial Accounting & Auditing",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Ellinor.Allen@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"2798",
+  "name":"Vince Morabito",
+  "departmentTitle":"Business Law & Taxation",
+  "positionTitle":"Professor",
+  "emailAddress":"Vince.Morabito@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"4593",
+  "name":"Tabatha Pettitt",
+  "departmentTitle":"Business Law & Taxation",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Tabatha.Pettitt@monash.edu",
+  "workPhoneNumber":"+61 3 990 32163"
+},{
+  "personId":"4912",
+  "name":"Abey Gunasekarage",
+  "departmentTitle":"Finance",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Abeyratna.Gunasekarage@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"11501",
+  "name":"Erte Xiao",
+  "departmentTitle":"Department of Economics",
+  "positionTitle":"Associate Professor",
+  "emailAddress":"Erte.Xiao@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"6195",
+  "name":"Alexander Stevens",
+  "departmentTitle":"Business Law & Taxation",
+  "positionTitle":"Teaching Support Coordinator",
+  "emailAddress":"Alexander.Stevens@monash.edu",
+  "workPhoneNumber":"+61 3 990 31900"
+},{
+  "personId":"4623",
+  "name":"Asanka Perera",
+  "departmentTitle":"Business Law & Taxation",
+  "positionTitle":"Assistant Lecturer",
+  "emailAddress":"Asanka.Perera@monash.edu",
+  "workPhoneNumber":"+61 3 990 52403"
+},{
+  "personId":"10714",
+  "name":"Jimmy Feng",
+  "departmentTitle":"Banking & Finance",
+  "positionTitle":"Research Fellow",
+  "emailAddress":"Jimmy.Feng@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"11116",
+  "name":"Syed Shams",
+  "departmentTitle":"Banking & Finance",
+  "positionTitle":"TEACHING ASSOCIATES",
+  "emailAddress":"Syed.Shams@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"4023",
+  "name":"Rick Krever",
+  "departmentTitle":"Business Law & Taxation",
+  "positionTitle":"Professor",
+  "emailAddress":"Rick.Krever@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"4302",
+  "name":"Francis Ip",
+  "departmentTitle":"Ctr for Health Economics",
+  "positionTitle":"Research Fellow",
+  "emailAddress":"Francis.Ip@monash.edu",
+  "workPhoneNumber":"+61 3 990 50753"
+},{
+  "personId":"10884",
+  "name":"Junzhao Ma",
+  "departmentTitle":"Department of Marketing",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Junzhao.Ma@monash.edu",
+  "workPhoneNumber":"+61 3 990 31428"
+},{
+  "personId":"3854",
+  "name":"Carolyn Sutherland",
+  "departmentTitle":"Business Law & Taxation",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Carolyn.Sutherland@monash.edu",
+  "workPhoneNumber":"+61 3 990 32380"
+},{
+  "personId":"3254",
+  "name":"Paul Sugden",
+  "departmentTitle":"Business Law & Taxation",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Paul.Sugden@monash.edu",
+  "workPhoneNumber":"+61 3 990 47080"
+},{
+  "personId":"3127",
+  "name":"Gennadi Kazakevitch",
+  "departmentTitle":"Department of Economics",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Gennadi.Kazakevitch@monash.edu",
+  "workPhoneNumber":"+61 3 990 52492"
+},{
+  "personId":"4447",
+  "name":"Michael Duffy",
+  "departmentTitle":"Business Law & Taxation",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Michael.Duffy@monash.edu",
+  "workPhoneNumber":"+61 3 990 32456"
+},{
+  "personId":"10729",
+  "name":"Mathew Hayward",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Professor",
+  "emailAddress":"Mathew.Hayward@monash.edu",
+  "workPhoneNumber":"+61 3 990 32046"
+},{
+  "personId":"9787",
+  "name":"Kompal Sinha",
+  "departmentTitle":"Ctr for Health Economics",
+  "positionTitle":"Senior Research Fellow",
+  "emailAddress":"Kompal.Sinha@monash.edu",
+  "workPhoneNumber":"+61 3 990 52457"
+},{
+  "personId":"4284",
+  "name":"Zoltan Murgulov",
+  "departmentTitle":"Finance",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Zoltan.Murgulov@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"9988",
+  "name":"Rachel Knott",
+  "departmentTitle":"Ctr for Health Economics",
+  "positionTitle":"Research Fellow",
+  "emailAddress":"Rachel.Knott@monash.edu",
+  "workPhoneNumber":"+61 3 990 50772"
+},{
+  "personId":"3149",
+  "name":"Jasmine Rushdi",
+  "departmentTitle":"Department of Marketing",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Mustabshira.Rushdi@monash.edu",
+  "workPhoneNumber":"+61 3 990 47238"
+},{
+  "personId":"7588",
+  "name":"Kathleen Riach",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Associate Professor",
+  "emailAddress":"Kathleen.Riach@monash.edu",
+  "workPhoneNumber":"+61 3 990 32998"
+},{
+  "personId":"3005",
+  "name":"Don Galagedera",
+  "departmentTitle":"Econometrics & Business Statistics",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Tissa.Galagedera@monash.edu",
+  "workPhoneNumber":"+61 3 990 31578"
+},{
+  "personId":"7547",
+  "name":"Imon Palit",
+  "departmentTitle":"Finance",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Imon.Palit@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"4437",
+  "name":"Pingping Qiu",
+  "departmentTitle":"Department of Marketing",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Pingping.Qiu@monash.edu",
+  "workPhoneNumber":"+61 3 990 31449"
+},{
+  "personId":"4972",
+  "name":"Liam Smith",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Director BehaviourWorks Australia",
+  "emailAddress":"Liam.Smith@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"4793",
+  "name":"Cameron Truong",
+  "departmentTitle":"Finance",
+  "positionTitle":"Associate Professor",
+  "emailAddress":"Cameron.Truong@monash.edu",
+  "workPhoneNumber":"+61 3 990 52322"
+},{
+  "personId":"4341",
+  "name":"Renee Paulet",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"TEACHING ASSOCIATE",
+  "emailAddress":"Renee.Paulet@monash.edu",
+  "workPhoneNumber":"+61 3 990 26834"
+},{
+  "personId":"3298",
+  "name":"Rebecca Valenzuela",
+  "departmentTitle":"Department of Economics",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Rebecca.Valenzuela@monash.edu",
+  "workPhoneNumber":"+61 3 990 32841"
+},{
+  "personId":"11762",
+  "name":"Yee Ching Ng",
+  "departmentTitle":"Ctr for Health Economics",
+  "positionTitle":"Research Fellow",
+  "emailAddress":"YeeChing.Ng@monash.edu",
+  "workPhoneNumber":"+61 3 990 50739"
+},{
+  "personId":"5302",
+  "name":"Michael Shields",
+  "departmentTitle":"Ctr for Health Economics",
+  "positionTitle":"ARC Future Fellow",
+  "emailAddress":"Michael.Shields@monash.edu",
+  "workPhoneNumber":"+61 3 990 58449"
+},{
+  "personId":"5229",
+  "name":"Susan Olivia",
+  "departmentTitle":"Econometrics & Business Statistics",
+  "positionTitle":"Research Fellow",
+  "emailAddress":"Susan.Olivia@monash.edu",
+  "workPhoneNumber":"+61 3 990 52081"
+},{
+  "personId":"3091",
+  "name":"Erica Brady",
+  "departmentTitle":"Department of Marketing",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Erica.Brady@monash.edu",
+  "workPhoneNumber":"+61 3 990 32546"
+},{
+  "personId":"3672",
+  "name":"Xibin Zhang",
+  "departmentTitle":"Econometrics & Business Statistics",
+  "positionTitle":"Associate Professor",
+  "emailAddress":"Xibin.Zhang@monash.edu",
+  "workPhoneNumber":"+61 3 990 32130"
+},{
+  "personId":"3134",
+  "name":"Harmindar Nath",
+  "departmentTitle":"Econometrics & Business Statistics",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Mindi.Nath@monash.edu",
+  "workPhoneNumber":"+61 3 990 47905"
+},{
+  "personId":"4585",
+  "name":"Paul Yap",
+  "departmentTitle":"Mgmt Accounting & Accounting Info Sys",
+  "positionTitle":"Assistant Lecturer",
+  "emailAddress":"Paul.Yap@monash.edu",
+  "workPhoneNumber":"+61 3 990 52374"
+},{
+  "personId":"3629",
+  "name":"John Watson",
+  "departmentTitle":"Finance",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"JR.Watson@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"10730",
+  "name":"Dan Wang",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Dan.Wang@monash.edu",
+  "workPhoneNumber":"+61 3 990 32757"
+},{
+  "personId":"11740",
+  "name":"Alejandro Agafonow Cordero",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Alejandro.Agafonow@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"9567",
+  "name":"Matt Nichol",
+  "departmentTitle":"Business Law & Taxation",
+  "positionTitle":"Assistant Lecturer",
+  "emailAddress":"Matt.Nichol@monash.edu",
+  "workPhoneNumber":"+61 3 990 34354"
+},{
+  "personId":"4749",
+  "name":"Ian McLoughlin",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Professor",
+  "emailAddress":"Ian.McLoughlin@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"4848",
+  "name":"Stephen King",
+  "departmentTitle":"Department of Economics",
+  "positionTitle":"Professor",
+  "emailAddress":"Stephen.King@monash.edu",
+  "workPhoneNumber":"+61 3 990 31288"
+},{
+  "personId":"4488",
+  "name":"Kristian Rotaru",
+  "departmentTitle":"Mgmt Accounting & Accounting Info Sys",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Kristian.Rotaru@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"2574",
+  "name":"Paul Latimer",
+  "departmentTitle":"Business Law & Taxation",
+  "positionTitle":"Associate Professor",
+  "emailAddress":"Paul.Latimer@monash.edu",
+  "workPhoneNumber":"+61 3 990 52379"
+},{
+  "personId":"4898",
+  "name":"Ahmad Sujan",
+  "departmentTitle":"Mgmt Accounting & Accounting Info Sys",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Ahmad.Sujan@monash.edu",
+  "workPhoneNumber":"+61 3 990 52310"
+},{
+  "personId":"2881",
+  "name":"Peter Krueger",
+  "departmentTitle":"Mgmt Accounting & Accounting Info Sys",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Peter.Krueger@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"4320",
+  "name":"Christopher Arup",
+  "departmentTitle":"Business Law & Taxation",
+  "positionTitle":"Professor",
+  "emailAddress":"Christopher.Arup@monash.edu",
+  "workPhoneNumber":"+61 3 990 31026"
+},{
+  "personId":"2963",
+  "name":"Christis Tombazos",
+  "departmentTitle":"Department of Economics",
+  "positionTitle":"Associate Professor",
+  "emailAddress":"Christis.Tombazos@monash.edu",
+  "workPhoneNumber":"+61 3 990 55166"
+},{
+  "personId":"9372",
+  "name":"Sisira Jayasuriya",
+  "departmentTitle":"Ctr for Dev Economics & Sustainability",
+  "positionTitle":"Professor",
+  "emailAddress":"Sisira.Jayasuriya@monash.edu",
+  "workPhoneNumber":"+61 3 990 34045"
+},{
+  "personId":"2956",
+  "name":"Glennis Hanley",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Glennis.Hanley@monash.edu",
+  "workPhoneNumber":"+61 3 990 59248"
+},{
+  "personId":"5383",
+  "name":"Diane Kraal",
+  "departmentTitle":"Business Law & Taxation",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Diane.Kraal@monash.edu",
+  "workPhoneNumber":"+61 3 990 32144"
+},{
+  "personId":"2617",
+  "name":"Brett Inder",
+  "departmentTitle":"Econometrics & Business Statistics",
+  "positionTitle":"Professor",
+  "emailAddress":"Brett.Inder@monash.edu",
+  "workPhoneNumber":"+61 3 990 52303"
+},{
+  "personId":"5138",
+  "name":"Horag Choi",
+  "departmentTitle":"Department of Economics",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Horag.Choi@monash.edu",
+  "workPhoneNumber":"+61 3 990 32848"
+},{
+  "personId":"4433",
+  "name":"Sophie Feng",
+  "departmentTitle":"Department of Marketing",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Shanfei.Feng@monash.edu",
+  "workPhoneNumber":"+61 3 990 31459"
+},{
+  "personId":"4044",
+  "name":"Farshid Navissi",
+  "departmentTitle":"Financial Accounting & Auditing",
+  "positionTitle":"Professor",
+  "emailAddress":"Farshid.Navissi@monash.edu",
+  "workPhoneNumber":"+61 3 990 52373"
+},{
+  "personId":"4884",
+  "name":"Nicholas Feltovich",
+  "departmentTitle":"Department of Economics",
+  "positionTitle":"Professor",
+  "emailAddress":"Nicholas.Feltovich@monash.edu",
+  "workPhoneNumber":"+61 3 990 20790"
+},{
+  "personId":"3905",
+  "name":"Aldonio Ferreira",
+  "departmentTitle":"Mgmt Accounting & Accounting Info Sys",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Aldonio.Ferreira@monash.edu",
+  "workPhoneNumber":"+61 3 990 52467"
+},{
+  "personId":"3101",
+  "name":"Peter O'Neill",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Peter.ONeill@monash.edu",
+  "workPhoneNumber":"+61 3 990 34701"
+},{
+  "personId":"9348",
+  "name":"Agne Suziedelyte",
+  "departmentTitle":"Ctr for Health Economics",
+  "positionTitle":"Research Fellow",
+  "emailAddress":"Agne.Suziedelyte@monash.edu",
+  "workPhoneNumber":"+61 3 990 50776"
+},{
+  "personId":"3361",
+  "name":"Jing Jing Li",
+  "departmentTitle":"Ctr for Health Economics",
+  "positionTitle":"Senior Research Fellow",
+  "emailAddress":"JingJing.Li@monash.edu",
+  "workPhoneNumber":"+61 3 990 58153"
+},{
+  "personId":"5406",
+  "name":"Laura Puzzello",
+  "departmentTitle":"Department of Economics",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Laura.Puzzello@monash.edu",
+  "workPhoneNumber":"+61 3 990 34517"
+},{
+  "personId":"4092",
+  "name":"Zhiyun Gong",
+  "departmentTitle":"Mgmt Accounting & Accounting Info Sys",
+  "positionTitle":"Assistant Lecturer",
+  "emailAddress":"Zhiyun.Gong@monash.edu",
+  "workPhoneNumber":"+61 3 990 52338"
+},{
+  "personId":"3421",
+  "name":"Andrea Kirk-Brown",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Associate Professor",
+  "emailAddress":"Andrea.Kirk-Brown@monash.edu",
+  "workPhoneNumber":"+61 3 990 47094"
+},{
+  "personId":"4466",
+  "name":"Dewi Tojib",
+  "departmentTitle":"Department of Marketing",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Dewi.Tojib@monash.edu",
+  "workPhoneNumber":"+61 3 990 32686"
+},{
+  "personId":"8868",
+  "name":"Vic Naiker",
+  "departmentTitle":"Financial Accounting & Auditing",
+  "positionTitle":"Professor",
+  "emailAddress":"Vic.Naiker@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"3544",
+  "name":"Peter Holland",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Associate Professor",
+  "emailAddress":"Peter.Holland@monash.edu",
+  "workPhoneNumber":"+61 3 990 34669"
+},{
+  "personId":"2737",
+  "name":"Robert Chenhall",
+  "departmentTitle":"Accounting",
+  "positionTitle":"Emeritus Professor",
+  "emailAddress":"",
+  "workPhoneNumber":""
+},{
+  "personId":"3113",
+  "name":"Maniruz Zaman",
+  "departmentTitle":"Department of Marketing",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Manir.Zaman@monash.edu",
+  "workPhoneNumber":"+61 3 990 47172"
+},{
+  "personId":"4637",
+  "name":"Susan O'Leary",
+  "departmentTitle":"Mgmt Accounting & Accounting Info Sys",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Susan.O'Leary@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"2721",
+  "name":"Ross Booth",
+  "departmentTitle":"Department of Economics",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Ross.Booth@monash.edu",
+  "workPhoneNumber":"+61 3 990 52434"
+},{
+  "personId":"7906",
+  "name":"Huu Nhan Duong",
+  "departmentTitle":"Finance",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Huu.Duong@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"9069",
+  "name":"Munir Khan",
+  "departmentTitle":"Ctr for Health Economics",
+  "positionTitle":"ADJUNCT RESEARCH FELLOW",
+  "emailAddress":"Munir.Khan@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"2888",
+  "name":"Wayne Gumley",
+  "departmentTitle":"Business Law & Taxation",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Wayne.Gumley@monash.edu",
+  "workPhoneNumber":"+61 3 990 56572"
+},{
+  "personId":"3515",
+  "name":"David Smith",
+  "departmentTitle":"Mgmt Accounting & Accounting Info Sys",
+  "positionTitle":"Professor",
+  "emailAddress":"David.Smith@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"3030",
+  "name":"Julian Teicher",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Professor",
+  "emailAddress":"Julian.Teicher@monash.edu",
+  "workPhoneNumber":"+61 3 990 31528"
+},{
+  "personId":"4232",
+  "name":"Jakob Madsen",
+  "departmentTitle":"Department of Economics",
+  "positionTitle":"Professor & Xiaokai Yang Chair",
+  "emailAddress":"Jakob.Madsen@monash.edu",
+  "workPhoneNumber":"+61 3 990 32134"
+},{
+  "personId":"3548",
+  "name":"Brian Cooper",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Brian.Cooper@monash.edu",
+  "workPhoneNumber":"+61 3 990 31233"
+},{
+  "personId":"2855",
+  "name":"Jiuhua Zhu",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Professor",
+  "emailAddress":"Cherrie.Zhu@monash.edu",
+  "workPhoneNumber":"+61 3 990 55465"
+},{
+  "personId":"2827",
+  "name":"Catherine Forbes",
+  "departmentTitle":"Econometrics & Business Statistics",
+  "positionTitle":"Associate Professor",
+  "emailAddress":"Catherine.Forbes@monash.edu",
+  "workPhoneNumber":"+61 3 990 52471"
+},{
+  "personId":"7730",
+  "name":"Hee-Seung Yang",
+  "departmentTitle":"Department of Economics",
+  "positionTitle":"Lecturer",
+  "emailAddress":"HeeSeung.Yang@monash.edu",
+  "workPhoneNumber":"+61 3 990 52431"
+},{
+  "personId":"4348",
+  "name":"Stephen Smith",
+  "departmentTitle":"Mgmt Accounting & Accounting Info Sys",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Stephen.Smith@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"11569",
+  "name":"Evie Kendal",
+  "departmentTitle":"Ctr for Health Economics",
+  "positionTitle":"Assistant Lecturer",
+  "emailAddress":"Evie.Kendal@monash.edu",
+  "workPhoneNumber":"+61 3 990 30085"
+},{
+  "personId":"2960",
+  "name":"George Rivers",
+  "departmentTitle":"Department of Economics",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"George.Rivers@monash.edu",
+  "workPhoneNumber":"+61 3 990 31462"
+},{
+  "personId":"3447",
+  "name":"Jaai Parasnis",
+  "departmentTitle":"Department of Economics",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Jaai.Parasnis@monash.edu",
+  "workPhoneNumber":"+61 3 990 47099"
+},{
+  "personId":"5019",
+  "name":"Philip Grossman",
+  "departmentTitle":"Department of Economics",
+  "positionTitle":"Professor",
+  "emailAddress":"Philip.Grossman@monash.edu",
+  "workPhoneNumber":"+61 3 990 20052"
+},{
+  "personId":"9369",
+  "name":"Klaus Abbink",
+  "departmentTitle":"Department of Economics",
+  "positionTitle":"Professor",
+  "emailAddress":"Klaus.Abbink@monash.edu",
+  "workPhoneNumber":"+61 3 990 20857"
+},{
+  "personId":"3732",
+  "name":"Mark Bender",
+  "departmentTitle":"Business Law & Taxation",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Mark.Bender@monash.edu",
+  "workPhoneNumber":"+61 3 990 32917"
+},{
+  "personId":"4570",
+  "name":"Shu Fan",
+  "departmentTitle":"Econometrics & Business Statistics",
+  "positionTitle":"Senior Research Fellow",
+  "emailAddress":"Shu.Fan@monash.edu",
+  "workPhoneNumber":"+61 3 990 55843"
+},{
+  "personId":"3178",
+  "name":"Peter Wagstaff",
+  "departmentTitle":"Department of Marketing",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Peter.Wagstaff@monash.edu",
+  "workPhoneNumber":"+61 3 990 32069"
+},{
+  "personId":"7568",
+  "name":"Steve Perryman",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"TEACHING ASSOCIATE",
+  "emailAddress":"Steve.Perryman@monash.edu",
+  "workPhoneNumber":"+61 3 990 32581"
+},{
+  "personId":"4355",
+  "name":"Daniel Chai",
+  "departmentTitle":"Finance",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Daniel.Chai@monash.edu",
+  "workPhoneNumber":"+61 3 990 52477"
+},{
+  "personId":"3970",
+  "name":"Greg van Mourik",
+  "departmentTitle":"Mgmt Accounting & Accounting Info Sys",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Greg.vanMourik@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"5205",
+  "name":"Heather Anderson",
+  "departmentTitle":"Econometrics & Business Statistics",
+  "positionTitle":"Brunt Chair Economics & Econometrics",
+  "emailAddress":"Heather.Anderson@monash.edu",
+  "workPhoneNumber":"+61 3 990 58462"
+},{
+  "personId":"10885",
+  "name":"Isabella Maggioni",
+  "departmentTitle":"Department of Marketing",
+  "positionTitle":"Research Fellow",
+  "emailAddress":"Isabella.Maggioni@monash.edu",
+  "workPhoneNumber":"+61 3 990 32310"
+},{
+  "personId":"9788",
+  "name":"Tony Fang",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"ADJUNCT ASSOCIATE PROFESSOR (RESEARCH)",
+  "emailAddress":"",
+  "workPhoneNumber":""
+},{
+  "personId":"3017",
+  "name":"Paul Lajbcygier",
+  "departmentTitle":"Finance",
+  "positionTitle":"Associate Professor",
+  "emailAddress":"Paul.Lajbcygier@monash.edu",
+  "workPhoneNumber":"+61 3 990 59694"
+},{
+  "personId":"4489",
+  "name":"Chongwoo Choe",
+  "departmentTitle":"Department of Economics",
+  "positionTitle":"Professor",
+  "emailAddress":"Chongwoo.Choe@monash.edu",
+  "workPhoneNumber":"+61 3 990 34520"
+},{
+  "personId":"7708",
+  "name":"Youjin Hahn",
+  "departmentTitle":"Department of Economics",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Youjin.Hahn@monash.edu",
+  "workPhoneNumber":"+61 3 990 52414"
+},{
+  "personId":"8911",
+  "name":"Haywantee Ramkissoon",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"ADJUNCT RESEARCH FELLOW",
+  "emailAddress":"Haywantee.Ramkissoon@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"4436",
+  "name":"Gerri Spassova",
+  "departmentTitle":"Department of Marketing",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Gerri.Spassova@monash.edu",
+  "workPhoneNumber":"+61 3 990 31329"
+},{
+  "personId":"4783",
+  "name":"Axel Schulz",
+  "departmentTitle":"Accounting",
+  "positionTitle":"Professor",
+  "emailAddress":"Axel.Schulz@monash.edu",
+  "workPhoneNumber":"+61 3 990 58207"
+},{
+  "personId":"3189",
+  "name":"Maureen Griffiths",
+  "departmentTitle":"Department of Marketing",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Maureen.Griffiths@monash.edu",
+  "workPhoneNumber":"+61 3 990 47142"
+},{
+  "personId":"2568",
+  "name":"Yew-Kwang Ng",
+  "departmentTitle":"Department of Economics",
+  "positionTitle":"Emeritus Professor",
+  "emailAddress":"Kwang.Ng@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"3649",
+  "name":"Pieter Van Dijk",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Associate Professor",
+  "emailAddress":"Pieter.VanDijk@monash.edu",
+  "workPhoneNumber":"+61 3 990 47153"
+},{
+  "personId":"3743",
+  "name":"Shrimal Perera",
+  "departmentTitle":"Finance",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Shrimal.Perera@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"5470",
+  "name":"Solmaz Moslehi",
+  "departmentTitle":"Department of Economics",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Solmaz.Moslehi@monash.edu",
+  "workPhoneNumber":"+61 3 990 34518"
+},{
+  "personId":"7429",
+  "name":"Liang Choon Wang",
+  "departmentTitle":"Department of Economics",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Liang.C.Wang@monash.edu",
+  "workPhoneNumber":"+61 3 990 55448"
+},{
+  "personId":"4764",
+  "name":"Hsein Kew",
+  "departmentTitle":"Econometrics & Business Statistics",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Hsein.Kew@monash.edu",
+  "workPhoneNumber":"+61 3 990 34348"
+},{
+  "personId":"4243",
+  "name":"Mukesh Garg",
+  "departmentTitle":"Financial Accounting & Auditing",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Mukesh.Garg@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"3932",
+  "name":"Binh Do",
+  "departmentTitle":"Finance",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Binh.Do@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"4153",
+  "name":"John Webster",
+  "departmentTitle":"Financial Accounting & Auditing",
+  "positionTitle":"Lecturer",
+  "emailAddress":"John.Webster@monash.edu",
+  "workPhoneNumber":"+61 3 990 58118"
+},{
+  "personId":"3389",
+  "name":"Jonathan Phillips",
+  "departmentTitle":"Financial Accounting & Auditing",
+  "positionTitle":"Assistant Lecturer",
+  "emailAddress":"Jon.Phillips@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"3968",
+  "name":"Robyn Moroney",
+  "departmentTitle":"Financial Accounting & Auditing",
+  "positionTitle":"Professor",
+  "emailAddress":"Robyn.Moroney@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"3550",
+  "name":"Tze Choo",
+  "departmentTitle":"Finance",
+  "positionTitle":"Assistant Lecturer",
+  "emailAddress":"Jason.Choo@monash.edu",
+  "workPhoneNumber":"+61 3 990 58628"
+},{
+  "personId":"4057",
+  "name":"Prabanga Thoradeniya",
+  "departmentTitle":"Mgmt Accounting & Accounting Info Sys",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Prabanga.Thoradeniya@monash.edu",
+  "workPhoneNumber":"+61 3 990 52404"
+},{
+  "personId":"2901",
+  "name":"Kevin Tant",
+  "departmentTitle":"Finance",
+  "positionTitle":"Associate Professor",
+  "emailAddress":"Kevin.Tant@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"4073",
+  "name":"Elias Khalil",
+  "departmentTitle":"Department of Economics",
+  "positionTitle":"Associate Professor",
+  "emailAddress":"Elias.Khalil@monash.edu",
+  "workPhoneNumber":"+61 3 990 52407"
+},{
+  "personId":"5238",
+  "name":"Viet Nga Cao",
+  "departmentTitle":"Finance",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Viet.Cao@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"4234",
+  "name":"Audra Mockaitis",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Associate Professor",
+  "emailAddress":"Audra.Mockaitis@monash.edu",
+  "workPhoneNumber":"+61 3 990 32371"
+},{
+  "personId":"3983",
+  "name":"Minh Do",
+  "departmentTitle":"Finance",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Minh.Do@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"4039",
+  "name":"Molla Huq",
+  "departmentTitle":"Econometrics & Business Statistics",
+  "positionTitle":"ADJUNCT RESEARCH FELLOW",
+  "emailAddress":"Molla.Huq@monash.edu",
+  "workPhoneNumber":"+61 3 990 30339"
+},{
+  "personId":"4439",
+  "name":"Stanislav Stakhovych",
+  "departmentTitle":"Department of Marketing",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Stanislav.Stakhovych@monash.edu",
+  "workPhoneNumber":"+61 3 990 31455"
+},{
+  "personId":"2951",
+  "name":"Tui McKeown",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Tui.McKeown@monash.edu",
+  "workPhoneNumber":"+61 3 990 52347"
+},{
+  "personId":"3568",
+  "name":"Kym Brown",
+  "departmentTitle":"Finance",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Kym.Brown@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"4927",
+  "name":"Julie Wolfram Cox",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Professor",
+  "emailAddress":"Julie.Wolfram.Cox@monash.edu",
+  "workPhoneNumber":"+61 3 990 34586"
+},{
+  "personId":"3481",
+  "name":"Angelo Iezzi",
+  "departmentTitle":"Ctr for Health Economics",
+  "positionTitle":"Research Fellow",
+  "emailAddress":"Angelo.Iezzi@monash.edu",
+  "workPhoneNumber":"+61 3 990 58413"
+},{
+  "personId":"4160",
+  "name":"Dyuti Banerjee",
+  "departmentTitle":"Department of Economics",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Dyuti.Banerjee@monash.edu",
+  "workPhoneNumber":"+61 3 990 52332"
+},{
+  "personId":"2600",
+  "name":"Gael Martin",
+  "departmentTitle":"Econometrics & Business Statistics",
+  "positionTitle":"Professor",
+  "emailAddress":"Gael.Martin@monash.edu",
+  "workPhoneNumber":"+61 3 990 51189"
+},{
+  "personId":"6133",
+  "name":"Davide La Vecchia",
+  "departmentTitle":"Econometrics & Business Statistics",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Davide.La-Vecchia@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"4133",
+  "name":"Michael De Martinis",
+  "departmentTitle":"Financial Accounting & Auditing",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Michael.DeMartinis@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"7609",
+  "name":"Veronique Ambrosini",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Professor",
+  "emailAddress":"V.Ambrosini@monash.edu",
+  "workPhoneNumber":"+61 3 990 32987"
+},{
+  "personId":"3070",
+  "name":"Ross Donohue",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Ross.Donohue@monash.edu",
+  "workPhoneNumber":"+61 3 990 31548"
+},{
+  "personId":"10731",
+  "name":"Mingqiong Mike Zhang",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Mike.Zhang@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"2582",
+  "name":"Maxwell King",
+  "departmentTitle":"Econometrics & Business Statistics",
+  "positionTitle":"Emeritus Sir John Msh Distinguished Prof",
+  "emailAddress":"Max.King@monash.edu",
+  "workPhoneNumber":"+61 3 990 34535"
+},{
+  "personId":"4130",
+  "name":"Andrew Serpell",
+  "departmentTitle":"Business Law & Taxation",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Andrew.Serpell@monash.edu",
+  "workPhoneNumber":"+61 3 990 32120"
+},{
+  "personId":"4129",
+  "name":"Edwyna Harris",
+  "departmentTitle":"Department of Economics",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Edwyna.Harris@monash.edu",
+  "workPhoneNumber":"+61 3 990 52448"
+},{
+  "personId":"8951",
+  "name":"Nicole Black",
+  "departmentTitle":"Ctr for Health Economics",
+  "positionTitle":"Senior Research Fellow",
+  "emailAddress":"Nicole.Black@monash.edu",
+  "workPhoneNumber":"+61 3 990 20261"
+},{
+  "personId":"6572",
+  "name":"Colm Kearney",
+  "departmentTitle":"Dean Faculty of Business & Economics",
+  "positionTitle":"Dean Faculty of Business & Economics",
+  "emailAddress":"Colm.Kearney@monash.edu",
+  "workPhoneNumber":"+61 3 990 32960"
+},{
+  "personId":"9068",
+  "name":"Aimee Maxwell",
+  "departmentTitle":"Ctr for Health Economics",
+  "positionTitle":"Research Fellow",
+  "emailAddress":"Aimee.Maxwell@monash.edu",
+  "workPhoneNumber":"+61 3 990 20277"
+},{
+  "personId":"11417",
+  "name":"Barry Williams",
+  "departmentTitle":"Banking & Finance",
+  "positionTitle":"Associate Professor",
+  "emailAddress":"Barry.Williams@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"3561",
+  "name":"Andrzej Ceglowski",
+  "departmentTitle":"Mgmt Accounting & Accounting Info Sys",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Andrzej.Ceglowski@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"3333",
+  "name":"George Athanasopoulos",
+  "departmentTitle":"Econometrics & Business Statistics",
+  "positionTitle":"Associate Professor",
+  "emailAddress":"George.Athanasopoulos@monash.edu",
+  "workPhoneNumber":"+61 3 990 31075"
+},{
+  "personId":"5221",
+  "name":"Paula Lorgelly",
+  "departmentTitle":"Ctr for Health Economics",
+  "positionTitle":"Associate Professor",
+  "emailAddress":"Paula.Lorgelly@monash.edu",
+  "workPhoneNumber":"+61 3 990 58411"
+},{
+  "personId":"8908",
+  "name":"Sen Sendjaya",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Associate Professor",
+  "emailAddress":"Sen.Sendjaya@monash.edu",
+  "workPhoneNumber":"+61 3 990 32089"
+},{
+  "personId":"7500",
+  "name":"Anke Leroux",
+  "departmentTitle":"Department of Economics",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Anke.Leroux@monash.edu",
+  "workPhoneNumber":"+61 3 990 34710"
+},{
+  "personId":"5351",
+  "name":"Phil Gray",
+  "departmentTitle":"Finance",
+  "positionTitle":"Professor",
+  "emailAddress":"Philip.Gray@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"3263",
+  "name":"Patty McNicholas",
+  "departmentTitle":"Financial Accounting & Auditing",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Patty.McNicholas@monash.edu",
+  "workPhoneNumber":"+61 3 990 52392"
+},{
+  "personId":"8748",
+  "name":"Dani Barrington",
+  "departmentTitle":"Department of Marketing",
+  "positionTitle":"Research Fellow",
+  "emailAddress":"Dani.Barrington@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"4043",
+  "name":"Mathews Thomas",
+  "departmentTitle":"Business Law & Taxation",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Mathews.Thomas@monash.edu",
+  "workPhoneNumber":"+61 3 990 52466"
+},{
+  "personId":"2871",
+  "name":"Michelle Greenwood",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Michelle.Greenwood@monash.edu",
+  "workPhoneNumber":"+61 3 990 52362"
+},{
+  "personId":"3662",
+  "name":"Harmen Oppewal",
+  "departmentTitle":"Department of Marketing",
+  "positionTitle":"Professor",
+  "emailAddress":"Harmen.Oppewal@monash.edu",
+  "workPhoneNumber":"+61 3 990 32360"
+},{
+  "personId":"11603",
+  "name":"Evelyn Looi",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Research Fellow",
+  "emailAddress":"Evelyn.Looi@monash.edu",
+  "workPhoneNumber":"+61 3 990 32628"
+},{
+  "personId":"2738",
+  "name":"Jeffrey Richardson",
+  "departmentTitle":"Ctr for Health Economics",
+  "positionTitle":"Professor",
+  "emailAddress":"Jeffrey.Richardson@monash.edu",
+  "workPhoneNumber":"+61 3 990 50754"
+},{
+  "personId":"2883",
+  "name":"Nell Kimberley",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Nell.Kimberley@monash.edu",
+  "workPhoneNumber":"+61 3 990 32249"
+},{
+  "personId":"4558",
+  "name":"Shelley Marshall",
+  "departmentTitle":"Business Law & Taxation",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Shelley.Marshall@monash.edu",
+  "workPhoneNumber":"+61 3 990 31317"
+},{
+  "personId":"5294",
+  "name":"Manapon Limkriangkrai",
+  "departmentTitle":"Finance",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Manapon.Limkriangkrai@monash.edu",
+  "workPhoneNumber":"+61 3 990 58436"
+},{
+  "personId":"4992",
+  "name":"Lakmal Abeysekera",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Lakmal.Abeysekera@monash.edu",
+  "workPhoneNumber":"+61 3 990 34293"
+},{
+  "personId":"8106",
+  "name":"Joanne Lye",
+  "departmentTitle":"Mgmt Accounting & Accounting Info Sys",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Joanne.Lye@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"3898",
+  "name":"Phillip Lipton",
+  "departmentTitle":"Business Law & Taxation",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Phillip.Lipton@monash.edu",
+  "workPhoneNumber":"+61 3 990 32194"
+},{
+  "personId":"3916",
+  "name":"Janto Haman",
+  "departmentTitle":"Financial Accounting & Auditing",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Janto.Haman@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"2742",
+  "name":"He-Ling Shi",
+  "departmentTitle":"Department of Economics",
+  "positionTitle":"Associate Professor",
+  "emailAddress":"He-Ling.Shi@monash.edu",
+  "workPhoneNumber":"+61 3 990 55045"
+},{
+  "personId":"4659",
+  "name":"Gary Magee",
+  "departmentTitle":"Department of Economics",
+  "positionTitle":"Professor",
+  "emailAddress":"Gary.Magee@monash.edu",
+  "workPhoneNumber":"+61 3 990 31307"
+},{
+  "personId":"2843",
+  "name":"Daisy Seng",
+  "departmentTitle":"Mgmt Accounting & Accounting Info Sys",
+  "positionTitle":"Assistant Lecturer",
+  "emailAddress":"Daisy.Seng@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"3859",
+  "name":"Chenxia Shi",
+  "departmentTitle":"Business Law & Taxation",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Chenxia.Shi@monash.edu",
+  "workPhoneNumber":"+61 3 990 32589"
+},{
+  "personId":"3711",
+  "name":"Dean Hanlon",
+  "departmentTitle":"Financial Accounting & Auditing",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Dean.Hanlon@monash.edu",
+  "workPhoneNumber":"+61 3 990 32021"
+},{
+  "personId":"4296",
+  "name":"Fang Lee Cooke",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Professor",
+  "emailAddress":"Fang.Cooke@monash.edu",
+  "workPhoneNumber":"+61 3 990 34666"
+},{
+  "personId":"4286",
+  "name":"Michaela Rankin",
+  "departmentTitle":"Financial Accounting & Auditing",
+  "positionTitle":"Associate Professor",
+  "emailAddress":"Michaela.Rankin@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"10396",
+  "name":"Danny Brent",
+  "departmentTitle":"Department of Economics",
+  "positionTitle":"Research Fellow",
+  "emailAddress":"Danny.Brent@monash.edu",
+  "workPhoneNumber":"+61 3 990 52382"
+},{
+  "personId":"11581",
+  "name":"Peter Mellor",
+  "departmentTitle":"Business Law & Taxation",
+  "positionTitle":"CASUAL RESEARCH ASSISTANT",
+  "emailAddress":"Peter.Mellor@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"4722",
+  "name":"Deborah Ralston",
+  "departmentTitle":"Australian Ctr for Financial Studies",
+  "positionTitle":"Professor",
+  "emailAddress":"Deborah.Ralston@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"6619",
+  "name":"Aidan Sudbury",
+  "departmentTitle":"Accounting",
+  "positionTitle":"TEACHING ASSOCIATE",
+  "emailAddress":"Aidan.Sudbury@monash.edu",
+  "workPhoneNumber":"+61 3 990 54405"
+},{
+  "personId":"3114",
+  "name":"Peter Townsend",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"TEACHING ASSOCIATE",
+  "emailAddress":"Peter.Townsend@monash.edu",
+  "workPhoneNumber":"+61 3 990 26707"
+},{
+  "personId":"3809",
+  "name":"Aashish Srivastava",
+  "departmentTitle":"Business Law & Taxation",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Aashish.Srivastava@monash.edu",
+  "workPhoneNumber":"+61 3 990 58418"
+},{
+  "personId":"3610",
+  "name":"Duangkamon Chotikapanich",
+  "departmentTitle":"Econometrics & Business Statistics",
+  "positionTitle":"Professor",
+  "emailAddress":"Duangkamon.Chotikapanich@monash.edu",
+  "workPhoneNumber":"+61 3 990 32791"
+},{
+  "personId":"3188",
+  "name":"Paul Kalfadellis",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Paul.Kalfadellis@monash.edu",
+  "workPhoneNumber":"+61 3 990 31527"
+},{
+  "personId":"3775",
+  "name":"Quamrul Alam",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Associate Professor",
+  "emailAddress":"Quamrul.Alam@monash.edu",
+  "workPhoneNumber":"+61 3 990 31030"
+},{
+  "personId":"4141",
+  "name":"Roger Gamble",
+  "departmentTitle":"Business Law & Taxation",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Roger.Gamble@monash.edu",
+  "workPhoneNumber":"+61 3 990 52333"
+},{
+  "personId":"3406",
+  "name":"Andrew Sanford",
+  "departmentTitle":"Finance",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Andrew.Sanford@monash.edu",
+  "workPhoneNumber":"+61 3 990 54938"
+},{
+  "personId":"2774",
+  "name":"Alice De Jonge",
+  "departmentTitle":"Business Law & Taxation",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Alice.DeJonge@monash.edu",
+  "workPhoneNumber":"+61 3 990 32587"
+},{
+  "personId":"3621",
+  "name":"Donald Poskitt",
+  "departmentTitle":"Econometrics & Business Statistics",
+  "positionTitle":"Professor",
+  "emailAddress":"Donald.Poskitt@monash.edu",
+  "workPhoneNumber":"+61 3 990 59378"
+},{
+  "personId":"5439",
+  "name":"Jiti Gao",
+  "departmentTitle":"Econometrics & Business Statistics",
+  "positionTitle":"Professor",
+  "emailAddress":"Jiti.Gao@monash.edu",
+  "workPhoneNumber":"+61 3 990 31675"
+},{
+  "personId":"10938",
+  "name":"Chris Veld",
+  "departmentTitle":"Finance",
+  "positionTitle":"Professor",
+  "emailAddress":"Chris.Veld@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"10920",
+  "name":"Mehmet Ozmen",
+  "departmentTitle":"Econometrics & Business Statistics",
+  "positionTitle":"Research Fellow",
+  "emailAddress":"Mehmet.Ozmen@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"7489",
+  "name":"Sephorah Mangin",
+  "departmentTitle":"Department of Economics",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Sephorah.Mangin@monash.edu",
+  "workPhoneNumber":"+61 3 990 32384"
+},{
+  "personId":"3733",
+  "name":"Hue Hwa Au Yong",
+  "departmentTitle":"Finance",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"HueHwa.AuYong@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"4441",
+  "name":"Lisa Cameron",
+  "departmentTitle":"Econometrics & Business Statistics",
+  "positionTitle":"Professor",
+  "emailAddress":"Lisa.Cameron@monash.edu",
+  "workPhoneNumber":"+61 3 990 55438"
+},{
+  "personId":"4568",
+  "name":"Ranjan Ray",
+  "departmentTitle":"Department of Economics",
+  "positionTitle":"Professor",
+  "emailAddress":"Ranjan.Ray@monash.edu",
+  "workPhoneNumber":"+61 3 990 20276"
+},{
+  "personId":"11507",
+  "name":"Sunyoung Kim",
+  "departmentTitle":"Financial Accounting & Auditing",
+  "positionTitle":"Lecturer",
+  "emailAddress":"Sunyoung.Kim@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"2832",
+  "name":"Michael Skully",
+  "departmentTitle":"Finance",
+  "positionTitle":"Professor",
+  "emailAddress":"Michael.Skully@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"3354",
+  "name":"Ken Coghill",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Associate Professor",
+  "emailAddress":"Ken.Coghill@monash.edu",
+  "workPhoneNumber":"+61 3 990 31532"
+},{
+  "personId":"5204",
+  "name":"Farshid Vahid-Araghi",
+  "departmentTitle":"Econometrics & Business Statistics",
+  "positionTitle":"Professor",
+  "emailAddress":"Farshid.Vahid@monash.edu",
+  "workPhoneNumber":"+61 3 990 52359"
+},{
+  "personId":"7473",
+  "name":"Alex Newman",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Associate Professor",
+  "emailAddress":"Alex.Newman@monash.edu",
+  "workPhoneNumber":"+61 3 990 52475"
+},{
+  "personId":"4784",
+  "name":"Yongfu He",
+  "departmentTitle":"Department of Marketing",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Yongfu.He@monash.edu",
+  "workPhoneNumber":"+61 3 990 31591"
+},{
+  "personId":"3525",
+  "name":"Xueyan Zhao",
+  "departmentTitle":"Econometrics & Business Statistics",
+  "positionTitle":"Professor",
+  "emailAddress":"Xueyan.Zhao@monash.edu",
+  "workPhoneNumber":"+61 3 990 52415"
+},{
+  "personId":"2995",
+  "name":"Marjorie Jerrard",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Marjorie.Jerrard@monash.edu",
+  "workPhoneNumber":"+61 3 990 32336"
+},{
+  "personId":"4553",
+  "name":"Tracey Shea",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Research Fellow",
+  "emailAddress":"Tracey.Shea@monash.edu",
+  "workPhoneNumber":"+61 3 990 34314"
+},{
+  "personId":"3386",
+  "name":"Carly Moulang",
+  "departmentTitle":"Mgmt Accounting & Accounting Info Sys",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Carly.Moulang@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"11039",
+  "name":"Chris Evans",
+  "departmentTitle":"Business Law & Taxation",
+  "positionTitle":"ADJUNCT RESEARCH FELLOW",
+  "emailAddress":"Chris.Evans@monash.edu",
+  "workPhoneNumber":""
+},{
+  "personId":"2861",
+  "name":"John Mckie",
+  "departmentTitle":"Ctr for Health Economics",
+  "positionTitle":"Senior Research Fellow",
+  "emailAddress":"John.Mckie@monash.edu",
+  "workPhoneNumber":"+61 3 990 50755"
+},{
+  "personId":"9590",
+  "name":"Amrik Sohal",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Professor",
+  "emailAddress":"Amrik.Sohal@monash.edu",
+  "workPhoneNumber":"+61 3 990 32033"
+},{
+  "personId":"11518",
+  "name":"Haemala Thanasegaran",
+  "departmentTitle":"Business Law & Taxation",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Haemala.Thanasegaran@monash.edu",
+  "workPhoneNumber":"+60 3 5514 6169"
+},{
+  "personId":"2817",
+  "name":"Linda McGuire",
+  "departmentTitle":"Department of Management",
+  "positionTitle":"Senior Lecturer",
+  "emailAddress":"Linda.McGuire@monash.edu",
+  "workPhoneNumber":"+61 3 990 55177"
+},{
+  "personId":"2611",
+  "name":"Jan Brace-Govan",
+  "departmentTitle":"Department of Marketing",
+  "positionTitle":"Associate Professor",
+  "emailAddress":"Jan.Brace-Govan@monash.edu",
+  "workPhoneNumber":"+61 3 990 32491"
+}]
