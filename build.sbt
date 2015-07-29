@@ -20,7 +20,6 @@ resolvers += "scalaz-bintray" at "http://dl.bintray.com/scalaz/releases"
 
 libraryDependencies ++= {
   Seq(
-    "org.clapper"       %% "grizzled-slf4j"  % "1.0.2",
     "com.github.scopt"  %% "scopt"           % "3.3.0",
     "org.specs2"        %% "specs2-core"     % "3.6.3"  % "test"
   )
