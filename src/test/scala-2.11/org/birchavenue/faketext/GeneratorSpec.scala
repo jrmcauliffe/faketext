@@ -18,25 +18,25 @@ class GeneratorSpec extends Specification {
   
   "The 'tokenize' funciton should" >> {
     "Remove double spaces" >> {
-      gen.tokenize("a  b") must beEqualTo(Array(Array("a","b")))
+      gen.tokenise("a  b") must beEqualTo(Array(Array("a","b")))
     }
     "Remove newlines" >> {
-      gen.tokenize("a\n b") must beEqualTo(Array(Array("a","b")))
+      gen.tokenise("a\n b") must beEqualTo(Array(Array("a","b")))
     }
     "Detect basic sentences" >> {
-      gen.tokenize("a. b") must beEqualTo(Array(Array("a"),Array("b")))
+      gen.tokenise("a. b") must beEqualTo(Array(Array("a"),Array("b")))
     }
     "Detect sentences with newlines" >> {
-      gen.tokenize("a.\n b") must beEqualTo(Array(Array("a"),Array("b")))
+      gen.tokenise("a.\n b") must beEqualTo(Array(Array("a"),Array("b")))
     }
    "Detect sentences with leading whitespace" >> {
-      gen.tokenize("  a.\n b") must beEqualTo(Array(Array("a"),Array("b")))
+      gen.tokenise("  a.\n b") must beEqualTo(Array(Array("a"),Array("b")))
     }
     "Detect sentences with trailing whitespace" >> {
-      gen.tokenize("a.\n b   ") must beEqualTo(Array(Array("a"),Array("b")))
+      gen.tokenise("a.\n b   ") must beEqualTo(Array(Array("a"),Array("b")))
     }
     "Detect longer sentences" >> {
-      gen.tokenize("This is my first sentence. This is my second") must beEqualTo(Array(Array("This","is","my","first","sentence"),Array("This","is","my","second")))
+      gen.tokenise("This is my first sentence. This is my second") must beEqualTo(Array(Array("This","is","my","first","sentence"),Array("This","is","my","second")))
     }
   }
 
