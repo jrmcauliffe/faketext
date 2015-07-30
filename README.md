@@ -17,13 +17,13 @@ Usage: java -jar faketext.jar [options] <file>...
 ```
 Running tests
 ```
-  > cd src
+  > cd dist
   > sbt test
 ```
 
 Build jar with dependencies (target/scala-2.11/faketext.jar)
 ```
-  > cd src
+  > cd dist
   > sbt assmebly
 ```
 
