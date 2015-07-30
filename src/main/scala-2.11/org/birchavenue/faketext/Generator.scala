@@ -22,7 +22,6 @@ class Generator(contents: Seq[String], splitSentences: Boolean) {
    
     @tailrec 
     def nextWord(acc: List[Word]): List[Word] = {
-
       val currentPair = (acc(1), acc(0))
       // Keep going until we can't find a pair, or at max words
       if(pairMap.contains(currentPair) && acc.length < maxWords) {
@@ -31,8 +30,7 @@ class Generator(contents: Seq[String], splitSentences: Boolean) {
         nextWord(newWord :: acc)
       } else acc // Reached max length     
     }
-    
-    
+  
     // Create correct number of fake text sentences with random starting pair
     List.fill(n){
       // Random starting pair
@@ -63,5 +61,4 @@ class Generator(contents: Seq[String], splitSentences: Boolean) {
   // Turn a sentence into a map of adjacent pairs and possible following letters
   def createPairMap(l: Sentence) = (l zip l.drop(1)) zip l.drop(2)
 
-  
 }
